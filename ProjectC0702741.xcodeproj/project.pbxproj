@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7924483F1F4DAA7F00A9438F /* MyCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7924483E1F4DAA7F00A9438F /* MyCellTableViewCell.swift */; };
+		792448431F4DCAD300A9438F /* icons8-Summary List-25.png in Resources */ = {isa = PBXBuildFile; fileRef = 792448421F4DCAD300A9438F /* icons8-Summary List-25.png */; };
 		798791DC1F4CEF330002A3FE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798791DB1F4CEF330002A3FE /* AppDelegate.swift */; };
 		798791DE1F4CEF330002A3FE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798791DD1F4CEF330002A3FE /* ViewController.swift */; };
 		798791E11F4CEF330002A3FE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 798791DF1F4CEF330002A3FE /* Main.storyboard */; };
@@ -39,6 +41,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7924483E1F4DAA7F00A9438F /* MyCellTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCellTableViewCell.swift; sourceTree = "<group>"; };
+		792448421F4DCAD300A9438F /* icons8-Summary List-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Summary List-25.png"; path = "../../../Downloads/icons8-Summary List-25.png"; sourceTree = "<group>"; };
 		798791D81F4CEF330002A3FE /* ProjectC0702741.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProjectC0702741.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		798791DB1F4CEF330002A3FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		798791DD1F4CEF330002A3FE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -108,10 +112,12 @@
 			isa = PBXGroup;
 			children = (
 				798792121F4D04FF0002A3FE /* 20140103_52c6f2726b796.png */,
+				792448421F4DCAD300A9438F /* icons8-Summary List-25.png */,
 				7987920C1F4CEFEB0002A3FE /* icons8-Add Key-25.png */,
 				798791DB1F4CEF330002A3FE /* AppDelegate.swift */,
 				798791DD1F4CEF330002A3FE /* ViewController.swift */,
 				798791DF1F4CEF330002A3FE /* Main.storyboard */,
+				7924483E1F4DAA7F00A9438F /* MyCellTableViewCell.swift */,
 				7987920E1F4CF3620002A3FE /* AddViewController.swift */,
 				798792101F4CF68C0002A3FE /* ListViewController.swift */,
 				798791E51F4CEF330002A3FE /* Assets.xcassets */,
@@ -249,6 +255,7 @@
 			files = (
 				798791E91F4CEF330002A3FE /* LaunchScreen.storyboard in Resources */,
 				798791E61F4CEF330002A3FE /* Assets.xcassets in Resources */,
+				792448431F4DCAD300A9438F /* icons8-Summary List-25.png in Resources */,
 				798792131F4D04FF0002A3FE /* 20140103_52c6f2726b796.png in Resources */,
 				798791E11F4CEF330002A3FE /* Main.storyboard in Resources */,
 				7987920D1F4CEFEB0002A3FE /* icons8-Add Key-25.png in Resources */,
@@ -279,6 +286,7 @@
 				798791DE1F4CEF330002A3FE /* ViewController.swift in Sources */,
 				798791DC1F4CEF330002A3FE /* AppDelegate.swift in Sources */,
 				7987920F1F4CF3620002A3FE /* AddViewController.swift in Sources */,
+				7924483F1F4DAA7F00A9438F /* MyCellTableViewCell.swift in Sources */,
 				798792111F4CF68C0002A3FE /* ListViewController.swift in Sources */,
 				798791E41F4CEF330002A3FE /* ProjectC0702741.xcdatamodeld in Sources */,
 			);
